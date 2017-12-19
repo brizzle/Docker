@@ -15,4 +15,10 @@ $ dotnet new [template-name] -n [project-name]
 ```
 
 e.g. `$ dotnet new angular -n demo-project`
+
+cd into directory then run
+
+```bash
+$ npm install
+```
 ---------------
